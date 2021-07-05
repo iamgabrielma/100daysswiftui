@@ -1,0 +1,1 @@
+This is a compendium of the ContentView.swift files from the different iOS apps I've made in SwiftUI following the 100 Days Of SwitfUI program. The code as-it-is is unusable, as is just the ContentView.swift files from the different apps.
